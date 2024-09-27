@@ -7,4 +7,12 @@ body {
     margin-bottom: 70px;
     margin-right: 30px;
     margin-left: 30px;
+    padding: 20px;
+}
+article {
+    color: black
+}
+
+article{
+    color: tomato
 }
