@@ -18,6 +18,8 @@ h1{
     font-style: Bold;
     color: rgb(60, 43, 0)
 }
+hr{ color: rgb(209, 140, 20)}
+
 article{
     margin-bottom: 75px;
 }
@@ -25,6 +27,7 @@ article{
 p{
     font-size: 18px;
     letter-spacing: .25px;
+    line-height: 36 px;
     padding-top: 16px;
     padding-bottom: 16px;
     color:rgb(60, 43, 0)
