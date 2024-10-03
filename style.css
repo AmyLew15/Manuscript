@@ -12,23 +12,23 @@ body {
     border: 1px solid #00000;
 }*/
 h1{
-    font-size: 50px;
+    font-size: 80px;
     letter-spacing: normal;
     font-weight: 600px;
-    font-style: black;
-    color: rgb(1, 30, 9)
+    font-style: Bold;
+    color: rgb(60, 43, 0)
 }
 article{
     margin-bottom: 75px;
 }
 
 p{
-    font-size: 20px;
+    font-size: 18px;
     letter-spacing: .25px;
-    line-height: 34 px;
+    line-height: 36 px;
     padding-top: 16px;
     padding-bottom: 16px;
-    color:rgb(1, 30, 9)
+    color:rgb(60, 43, 0)
 }
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 100 to 700
