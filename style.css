@@ -5,17 +5,10 @@ body{
     margin: auto;
     margin-top: 40px;
     margin-bottom: 20px;
-    background: linear-gradient(#fff8e6, #3c2b00);
+    background: linear-gradient(#aa7a00, #3c2b00);
 }
 
 /* Head */
-
-.hgroup-div {
-    background-color:rgb(60, 43, 0) ;
-    width: auto;
-    padding-top: 100px;
-    padding-bottom: 100px;
-}
 
 h1{
     font-size: 80px;
@@ -24,8 +17,9 @@ h1{
     font-style: Bold;
     color: rgb(60, 43, 0)
 }
- hr{ 
-    border: 6px solid
+ div { 
+    <border-top-style: solid;
+    border-top: thick 
     color rgb(209, 140, 20)
     } */
 
