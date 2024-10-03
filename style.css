@@ -23,14 +23,39 @@ h1{
     font-style: Bold;
     color: rgb(60, 43, 0)
 }
-hr{ color: rgb(209, 140, 20)}
+ hr{ 
+    border: 6px solid
+    color: rgb(209, 140, 20)
+    } */
 
 article{
-    margin-bottom: 75px;
+    margin-bottom: 100px;
+}
+
+h2{
+    font-size: 65px;
+    letter-spacing: normal;
+    font-weight: 400px;
+    font-style: medium;
+    color: rgb(60, 43, 0);
+}
+h3{
+    font-size: 40px;
+    letter-spacing: normal;
+    font-weight: 300px;
+    font-style: medium;
+    color: rgb(60, 43, 0);
+}
+h4{
+    font-size: 35px;
+    letter-spacing: normal;
+    font-weight: 300px;
+    font-style: medium;
+    color: rgb(60, 43, 0);
 }
 
 p{
-    font-size: 18px;
+    font-size: 24px;
     letter-spacing: .25px;
     line-height: 36 px;
     padding-top: 16px;
