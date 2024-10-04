@@ -10,7 +10,7 @@ body{
 /* header */
 .class-intro {
     background-color: rgb(255, 189, 163,30%);
-    width:max-content;
+    width:auto;
     padding-bottom: 30px;
     padding: 80px;
     border-bottom: solid 4px;
@@ -30,7 +30,7 @@ h1{
 /*main article */
 
 section{
-    margin-top: 80px;
+    margin-top: 60px;
 }
 h2{
     font-family: "Lato";
@@ -60,7 +60,6 @@ em{
     font-weight: 300px;
     font-style: normal;
     color: #9c2302;
-    padding-block: 45px;
 }
 
 /*main article*/
