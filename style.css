@@ -5,6 +5,7 @@ body{
     font-style: normal;
     line-height: 30px;
     margin-bottom: 20px;
+    max-width: 900px;
     background: linear-gradient(rgb(213, 72, 32), rgb(191, 105, 12));
 }
 /* header */
