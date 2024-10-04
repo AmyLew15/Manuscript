@@ -57,9 +57,10 @@ h4{
 }
 em{
     font-family: "Montagu Slab";
-    font-size: 65px;
+    font-size: 75px;
     font-weight: 300px;
     font-style: normal;
+    padding: 14px
     color: #9c2302;
 }
 
