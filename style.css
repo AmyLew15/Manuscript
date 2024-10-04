@@ -16,12 +16,7 @@ body{
 hgroup{
     background-color: rgb(255, 189, 163,30%);
     width: 100vw;
-    padding-top: 30px;
     padding-bottom: 30px;
-    font-family: "Montagu Slab";
-    font-size: 30px;
-    letter-spacing: .25px;
-    padding: 20px;
     border-bottom: solid 4px;
     color:rgb(255, 189, 163)
 }
