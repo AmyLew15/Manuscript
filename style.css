@@ -5,7 +5,7 @@ body{
     margin: auto;
     margin-top: 40px;
     margin-bottom: 20px;
-    background: linear-gradient(#ff5b2e, #bf690c);
+    background: linear-gradient(#d54820, #bf690c);
 }
 
 /* Head */
@@ -17,8 +17,15 @@ h1{
     text-align: left;
     font-weight: 600px;
     font-style: Bold;
-    color: rgb(255, 207, 170);
+    color: #ffbda3;
     padding-bottom: 20px;
+}
+hgroup{
+    font-size: 24px;
+    letter-spacing: .25px;
+    padding-top: 10px;
+    padding-bottom: 16px;
+    color:#ffbda3
 }
 
 article{
@@ -50,9 +57,9 @@ h4{
 p{
     font-size: 24px;
     letter-spacing: .25px;
-    padding-top: 16px;
+    padding-top: 10px;
     padding-bottom: 16px;
-    color:rgb(60, 43, 0)
+    color:#ffbda3
 }
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 100 to 700
