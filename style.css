@@ -81,13 +81,12 @@ blockquote{
 
 /*reflection*/
 .reflection {
+    font-family: "Montagu Slab";
+    font-size: 20px;
+    letter-spacing: .25px;
+    color: #bf690c;
     background-color: #ffbda3;
     padding: 80px;
     border-radius: 30px;
     border-style: groove;
-}
-p{
-    font-size: 18px;
-    letter-spacing: .25px;
-    color: #bf690c;
 }
