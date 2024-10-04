@@ -70,9 +70,8 @@ blockquote{
 .reflection {
     background-color: rgb(255, 189, 163, 30%);
     border-radius: 6px;
-    width: 750px;
+    width: 850px;
     margin: auto;
     margin-bottom: 60px;
-    padding: 20px;
     text-wrap: balance;
 }
