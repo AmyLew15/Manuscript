@@ -1,11 +1,11 @@
 body{
-    font-family: "Lato", "Montagu Slab";
+    font-family: "Lato";
     color: #ffbda3;
     font-size: 20px;
-    font-style: normal;
     line-height: 30px;
     margin-bottom: 20px;
     max-width: 800px;
+    padding: 24px;
     background: linear-gradient(rgb(213, 72, 32), rgb(191, 105, 12));
 }
 /* header */
@@ -61,7 +61,6 @@ em{
     font-weight: 300px;
     font-style: normal;
     color: #9c2302;
-    padding-block: 14px;
 }
 
 /*main article*/
