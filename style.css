@@ -5,6 +5,7 @@ body{
     margin: auto;
     margin-top: 40px;
     margin-bottom: 20px;
+    padding: 24px;
     background: linear-gradient(#d54820, #bf690c);
 }
 
@@ -14,17 +15,44 @@ hgroup{
     font-size: 30px;
     letter-spacing: .25px;
     padding: 20px;
-    border-bottom: solid 5px;
-    border-width: 0cqmax;
+    border-bottom: solid 4px;
     color:#ffbda3
 }
 h1{
-    font-family: "Lato"; sans-serif;
+    font-family: "Lato";
     font-size: 60px;
     letter-spacing: normal;
     text-align: left;
     font-weight: 600px;
     font-style: Bold;
+    color: #ffbda3;
+}
+
+/*main article */
+
+h2{
+    font-family: "Montagu Slab";
+    font-size: 45px;
+    letter-spacing: normal;
+    text-align: left;
+    font-weight: 400px;
+    font-style: medium;
+    color: #ffbda3;
+}
+h3{
+    font-family: "Montagu Slab";
+    font-size: 30px;
+    letter-spacing: normal;
+    font-weight: 300px;
+    font-style: medium;
+    color: #ffbda3;
+}
+h4{
+    font-family: "Monatgu Slab";
+    font-size: 20px;
+    letter-spacing: normal;
+    font-weight: 300px;
+    font-style: medium;
     color: #ffbda3;
 }
 
