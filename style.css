@@ -31,27 +31,29 @@ h2{
     text-align: left;
     color: rgb(255, 189, 163);
 }
-h3{
-    font-size: 26px;
-    text-align: left;
-    color: rgb(255, 189, 163);
-}
-h4{
-    font-family: "Lato", thin 300;
-    font-size: 22px;
-    font-weight: 300px;
-    text-align: left;
-    color: rgb(255, 189, 163);
-}
 em{
     font-family: "Montagu Slab";
     font-size: 80px;
     font-weight: 300px;
-    margin: 16px;
+    font-style: normal;
+    margin: 18px;
     color: rgb(156, 35, 2);
 }
+h3{
+    font-size: 26px;
+    font-style: thin;
+    text-align: left;
+    color: rgb(255, 189, 163);
+}
+h4{
+    font-family: "Lato thin";
+    font-size: 22px;
+    text-align: left;
+    color: rgb(255, 189, 163);
+}
+
 p{
-    font-size: 18px;
+    font-size: 20px;
     letter-spacing: .25px;
     padding-top: 16px;
     padding-bottom: 16px;
@@ -59,7 +61,7 @@ p{
 }
 blockquote{
     font-family: "Montagu Slab";
-    font-size: 24px;
+    font-size: 26px;
     text-align: left;
     color: rgb(115, 25, 0);
 }
@@ -71,10 +73,12 @@ blockquote{
     border-radius: 6px;
     width: 800px;
     padding: 24px;
+    margin-bottom: 60px;
     text-wrap: balance;
 }
 h5{
     font-size: 26px;
+    padding-bottom: 10px;
     color: rgb(191, 87, 12)
 }
 h6{
