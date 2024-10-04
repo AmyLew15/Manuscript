@@ -83,3 +83,13 @@ blockquote{
     padding: 20px;
     text-wrap: balance;
 }
+h5{
+    font-family: "Montagu Slab";
+    font-size: 24px;
+    letter-spacing: .25px;
+}
+h6{
+    font-family: "Montagu Slab";
+    font-size: 24px;
+    letter-spacing: .25px;
+}
