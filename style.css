@@ -35,7 +35,7 @@ h2{
     font-family: "Lato";
     font-size: 45px;
     text-align: left;
-    font-weight: 400px;
+    font-weight: 300px;
     font-style: medium;
     line-height: normal;
     color: #ffbda3;
@@ -43,16 +43,16 @@ h2{
 h3{
     font-family: "Lato";
     font-size: 26px;
-    font-weight: 300px;
     font-style: medium;
     color: #ffbda3;
+    padding: 14px;
 }
 h4{
     font-family: "Lato";
-    font-size: 24px;
-    font-weight: 200px;
+    font-size: 22px;
     font-style: medium;
     color: #ffbda3;
+    padding: 14px;
 }
 em{
     font-family: "Montagu Slab";
