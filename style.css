@@ -70,7 +70,7 @@ blockquote{
     background-color: rgb(255, 189, 163, 30%);
     border-radius: 6px;
     width: 800px;
-    padding: 24px;
+    padding-top: 24px;
     margin-bottom: 60px;
     text-wrap: balance;
 }
@@ -83,6 +83,6 @@ h6{
     font-size: 20px;
     color: rgb(191, 87, 12);
 }
-.class-response{
+article.class-response{
     color: rgb(191, 105, 12);
 }
