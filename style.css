@@ -14,7 +14,6 @@ hgroup{
     font-size: 30px;
     letter-spacing: .25px;
     padding-top: 60px;
-    padding-bottom: 16px;
     border-bottom: solid 5px;
     color:#ffbda3
 }
@@ -25,9 +24,6 @@ h1{
     text-align: left;
     font-weight: 600px;
     font-style: Bold;
-    color: #ffbda3;
-}
-br{
     color: #ffbda3;
 }
 
