@@ -75,5 +75,6 @@ p{
 blockquote{
     font-family: "Montagu Slab";
     font-size: 26px;
-    color: #9c2302;
+    text-align: left;
+    color: #ce2d00;
 }
