@@ -70,19 +70,21 @@ blockquote{
     background-color: rgb(255, 189, 163, 30%);
     border-radius: 6px;
     width: 800px;
-    padding-top: 24px;
+    padding: 26px;
     margin-bottom: 60px;
     text-wrap: balance;
 }
 h5{
     font-size: 26px;
     padding-bottom: 10px;
+    line-height: 30px;
     color: rgb(191, 87, 12)
 }
 h6{
     font-size: 20px;
+    line-height: 30px;
     color: rgb(191, 87, 12);
 }
-article.class-response{
+.class-response{
     color: rgb(191, 105, 12);
 }
