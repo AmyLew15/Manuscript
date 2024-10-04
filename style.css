@@ -3,7 +3,6 @@ body{
     font-size: 20px;
     font-style: normal;
     line-height: 30px;
-    margin: auto;
     margin-bottom: 20px;
     background: linear-gradient(rgb(213, 72, 32), rgb(191, 105, 12));
 }
@@ -11,8 +10,9 @@ body{
 .class-intro {
     background-color: rgb(255, 189, 163,30%);
     width: 100vw;
+    padding-top: 60px;
     padding-bottom: 30px;
-    padding: 60px;
+    padding: 80px;
     border-bottom: solid 4px;
     color:rgb(255, 189, 163)
 }
