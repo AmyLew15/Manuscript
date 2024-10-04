@@ -10,10 +10,10 @@ body{
 /* header */
 .class-intro {
     background-color: rgb(255, 189, 163,30%);
-    width:auto;
-    padding: 80px;
-    border-bottom: solid 4px;
-    color:rgb(255, 189, 163)
+    border-radius: 6px;
+    width: 750px;
+    margin: auto;
+    margin-bottom: 60px;
 }
 h1{
     font-family: "Lato";
