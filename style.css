@@ -13,7 +13,7 @@ body{
 
 /* header */
 
-hgroup{
+.class-intro {
     background-color: rgb(255, 189, 163,30%);
     width: 100vw;
     padding-bottom: 30px;
