@@ -4,7 +4,7 @@ body{
     font-size: 20px;
     font-style: normal;
     line-height: 30px;
-    margin: 0px;
+    margin: auto;
     max-width: 800px;
     background: linear-gradient(rgb(213, 72, 32), rgb(191, 105, 12));
 }
@@ -24,7 +24,7 @@ h1{
 }
 /*main article */
 .class-main{
-    margin: 16px;
+    margin: ;
 }
 h2{
     font-style: bold;
