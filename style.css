@@ -23,12 +23,8 @@ h1{
     color: rgb(255, 189, 163);
 }
 /*main article */
-.class-main{
-    margin: ;
-}
 h2{
-    font-style: bold;
-    font-size: 40px;
+    font-size: 34px;
     line-height: 60px;
     text-align: left;
     color: rgb(255, 189, 163);
@@ -42,13 +38,11 @@ em{
     color: rgb(156, 35, 2);
 }
 h3{
-    font-style: thin;
     font-size: 26px;
     text-align: left;
     color: rgb(255, 189, 163);
 }
 h4{
-    font-style: thin;
     font-size: 22px;
     text-align: left;
     color: rgb(255, 189, 163);
