@@ -55,31 +55,17 @@ h4{
     font-style: medium;
     color: #ffbda3;
 }
+em{
+    font-family: "Montagu Slab";
+    font-size: 28;
+    letter-spacing: normal;
+    font-weight: 300px;
+    font-style: normal;
+    color: #d54820;
+}
 
 article{
     margin-bottom: 100px;
-}
-
-h2{
-    font-size: 45px;
-    letter-spacing: normal;
-    font-weight: 400px;
-    font-style: medium;
-    color: rgb(93, 68, 4);
-}
-h3{
-    font-size: 30px;
-    letter-spacing: normal;
-    font-weight: 300px;
-    font-style: medium;
-    color: rgb(60, 43, 0);
-}
-h4{
-    font-size: 20px;
-    letter-spacing: normal;
-    font-weight: 300px;
-    font-style: medium;
-    color: rgb(60, 43, 0);
 }
 
 p{
