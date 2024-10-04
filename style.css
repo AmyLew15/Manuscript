@@ -32,7 +32,7 @@ h1{
 
 h2{
     font-family: "Lato";
-    font-size: 40px;
+    font-size: 45px;
     text-align: left;
     font-weight: 400px;
     font-style: medium;
@@ -48,13 +48,13 @@ h3{
 h4{
     font-family: "Lato";
     font-size: 24px;
-    font-weight: 300px;
+    font-weight: 200px;
     font-style: medium;
     color: #ffbda3;
 }
 em{
     font-family: "Montagu Slab";
-    font-size: 32px;
+    font-size: 48px;
     font-weight: 300px;
     font-style: normal;
     color: #9c2302;
