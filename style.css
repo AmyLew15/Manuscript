@@ -17,13 +17,10 @@ body{
 }
 h1{
     font-size: 28px;
+    font-style: light 300;
     text-align: left;
     padding: 20px;
     color: rgb(255, 189, 163);
-}
-h1:last-child(2){
-    font-size: 18px;
-    margin-top: -60px;
 }
 /*main article */
 
@@ -31,23 +28,22 @@ section{
     margin-top: 60px;
 }
 h2{
-    font-family: "Lato";
     font-size: 40px;
     text-align: left;
     font-weight: 300px;
-    font-style: medium;
+    font-style: bold 700;
     line-height: normal;
     color: rgb(255, 189, 163);
 }
 h3{
-    font-family: "Lato";
     font-size: 26px;
-    font-weight: 100px;
+    font-weight: 400px;
     text-align: left;
     color: rgb(255, 189, 163);
 }
 h4{
     font-size: 22px;
+    font-weight: 300px;
     text-align: left;
     color: rgb(255, 189, 163);
 }
