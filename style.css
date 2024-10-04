@@ -70,7 +70,7 @@ blockquote{
 
 /*reflection*/
 .reflection {
-    background-color: rgb(255 236 215 / 35%);
+    background-color:  rgb(255, 189, 163,30%);
     border-radius: 6px;
     width: 800px;
     padding: 26px;
@@ -79,19 +79,24 @@ blockquote{
 }
 h5{
     margin: 0px;
-    font-size: 26px;
-    font-weight:700;
+    font-size: 22px;
+    font-weight:400;
     padding-bottom: 10px;
     line-height: 30px;
-    color: rgb(191, 87, 12)
+    color: rgb(255 236 229)
 }
 h6{
     margin: 0px;
     font-size: 20px;
-    font-weight:400;
+    font-weight:300;
     line-height: 30px;
-    color: rgb(191, 87, 12);
+    color: rgb(255 236 229);
 }
 p.response{
-    color: rgb(191, 87, 12);
+    font-size: 18px;
+    font-weight:300;
+    color: rgb(255 236 229);
+}
+blockquote.response{
+    font-size: 20px;
 }
