@@ -1,6 +1,6 @@
 body{
     font-family: "Lato", sans-serif;
-    max-width: 800px;
+    max-width: 700px;
     font-style: normal;
     margin: auto;
     margin-top: 40px;
@@ -15,6 +15,7 @@ hgroup{
     letter-spacing: .25px;
     padding-top: 60px;
     padding-bottom: 16px;
+    border-bottom: solid 5px;
     color:#ffbda3
 }
 h1{
