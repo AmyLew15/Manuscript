@@ -23,7 +23,7 @@ h1{
     text-align: left;
     font-weight: 600px;
     font-style: Bold;
-    color: #ffbda3;
+    color: rgb(255, 189, 163);
 }
 
 /*main article */
@@ -38,14 +38,14 @@ h2{
     font-weight: 300px;
     font-style: medium;
     line-height: normal;
-    color: #ffbda3;
+    color: rgb(255, 189, 163);
 }
 h3{
     font-family: "Lato";
     font-size: 26px;
     text-align: left;
     font-style: medium;
-    color: #ffbda3;
+    color: rgb(255, 189, 163);
     padding: 14px;
 }
 h4{
@@ -53,7 +53,7 @@ h4{
     font-size: 22px;
     text-align: left;
     font-style: medium;
-    color: #ffbda3;
+    color: rgb(255, 189, 163);
     padding: 14px;
 }
 em{
@@ -61,33 +61,28 @@ em{
     font-size: 80px;
     font-weight: 300px;
     font-style: normal;
-    color: #9c2302;
+    color: rgb(156, 35, 2);
 }
-
-/*main article*/
 p{
     font-size: 18px;
     letter-spacing: .25px;
     padding-top: 16px;
     padding-bottom: 16px;
-    color:#ffbda3
+    color:rgb(255, 189, 163)
 }
 blockquote{
     font-family: "Montagu Slab";
     font-size: 26px;
     text-align: left;
-    color: #731900;
+    color: rgb(115, 25, 0);
 }
 
 /*reflection*/
-hgroup2{
-    color: #bf690c;
-}
 .reflection {
     font-family: "Montagu Slab";
     font-size: 20px;
     letter-spacing: .25px;
-    color: #bf690c;
-    background-color:25% #ffbda3;
+    color: rgb(191, 105, 12);
+    background-color: rgb(255, 189, 163, 30%);
     border-style: groove;
 }
