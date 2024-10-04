@@ -40,12 +40,13 @@ em{
 h3{
     font-size: 26px;
     text-align: left;
+    margin-bottom: 10px;
     color: rgb(255, 189, 163);
 }
 h4{
     font-size: 22px;
     text-align: left;
-    margin-bottom: 0px;
+    margin: 0px;
     color: rgb(255, 189, 163);
 }
 
