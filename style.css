@@ -60,8 +60,8 @@ em{
     font-size: 75px;
     font-weight: 300px;
     font-style: normal;
-    padding: 14px
     color: #9c2302;
+    padding-block: 14px;
 }
 
 /*main article*/
