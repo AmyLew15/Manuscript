@@ -77,9 +77,10 @@ blockquote{
 h5{
     font-size: 26px;
     text-align: left;
-    color: rgb(191, 105, 12)
+    padding: 10px;
+    color: rgb(191, 87, 12)
 }
 h6{
     font-size: 20px;
-    color: rgb(191, 105, 12);
+    color: rgb(191, 87, 12);
 }
