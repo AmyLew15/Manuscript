@@ -3,15 +3,14 @@ body{
     color: #ffbda3;
     font-size: 20px;
     line-height: 30px;
-    margin-bottom: 20px;
+    margin: auto;
     max-width: 800px;
-    padding: 24px;
     background: linear-gradient(rgb(213, 72, 32), rgb(191, 105, 12));
 }
 /* header */
 .class-intro {
     background-color: rgb(255, 189, 163,30%);
-    width: 100vw;
+    width:max-content;
     padding-bottom: 30px;
     padding: 80px;
     border-bottom: solid 4px;
@@ -57,10 +56,11 @@ h4{
 }
 em{
     font-family: "Montagu Slab";
-    font-size: 75px;
+    font-size: 80px;
     font-weight: 300px;
     font-style: normal;
     color: #9c2302;
+    padding-block: 45px;
 }
 
 /*main article*/
