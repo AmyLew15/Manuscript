@@ -14,8 +14,7 @@ body{
 /* header */
 
 hgroup{
-    background-color: #ffbda3 30%;
-    max-width: fit-content;
+    font-family: "Montagu Slab";
     font-size: 30px;
     letter-spacing: .25px;
     padding: 20px;
@@ -40,6 +39,7 @@ section{
 h2{
     font-family: "Lato";
     font-size: 45px;
+    letter-spacing: .25px;
     text-align: left;
     font-weight: 400px;
     font-style: medium;
@@ -80,7 +80,7 @@ blockquote{
     font-family: "Montagu Slab";
     font-size: 26px;
     text-align: left;
-    color: #ce2d00;
+    color: #731900;
 }
 
 /*reflection*/
