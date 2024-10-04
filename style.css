@@ -8,8 +8,15 @@ body{
     background: linear-gradient(#d54820, #bf690c);
 }
 
-/* Head */
+/* header */
 
+hgroup{
+    font-size: 30px;
+    letter-spacing: .25px;
+    padding-top: 60px;
+    padding-bottom: 16px;
+    color:#ffbda3
+}
 h1{
     font-family: "Lato"; sans-serif;
     font-size: 60px;
@@ -19,11 +26,8 @@ h1{
     font-style: Bold;
     color: #ffbda3;
 }
-hgroup{
-    font-size: 30px;
-    letter-spacing: .25px;
-    padding-bottom: 16px;
-    color:#ffbda3
+br{
+    color: #ffbda3;
 }
 
 article{
