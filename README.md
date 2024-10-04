@@ -1,0 +1,1 @@
+Hi! Thank you for your interest in my first project using GitHub. I created this site as practice for learning and understanding the ways of HTML and CSS. The article on my site was originally published on AIGA and its definitely worth a read! Included is my response to this article and I had a lot of fun practicing what I've learned so far coding. 🤠
