@@ -31,7 +31,7 @@ h1{
 /*main article */
 
 h2{
-    font-family: "Montagu Slab";
+    font-family: "Lato";
     font-size: 45px;
     letter-spacing: normal;
     text-align: left;
@@ -40,7 +40,7 @@ h2{
     color: #ffbda3;
 }
 h3{
-    font-family: "Montagu Slab";
+    font-family: "Lato";
     font-size: 30px;
     letter-spacing: normal;
     font-weight: 300px;
@@ -48,7 +48,7 @@ h3{
     color: #ffbda3;
 }
 h4{
-    font-family: "Monatgu Slab";
+    font-family: "Lato";
     font-size: 20px;
     letter-spacing: normal;
     font-weight: 300px;
@@ -61,7 +61,7 @@ em{
     letter-spacing: normal;
     font-weight: 300px;
     font-style: normal;
-    color: #d54820;
+    color: #9c2302;
 }
 
 article{
