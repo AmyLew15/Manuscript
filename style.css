@@ -21,11 +21,9 @@ h1{
     padding: 20px;
     color: rgb(255, 189, 163);
 }
-h1: :nth-child(1){
-}
 h1:last-child(2){
     font-size: 18px;
-    margin-top: -20px;
+    margin-top: -60px;
 }
 /*main article */
 
