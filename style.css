@@ -1,5 +1,7 @@
 body{
-    font-family: "Lato";
+    font-family: "lato-regular";
+    font-weight: 400;
+    font-style: normal;
     color: #ffbda3;
     font-size: 20px;
     line-height: 30px;
@@ -24,7 +26,6 @@ h1{
 }
 /*main article */
 h2{
-    .lato-bold {
         font-family: "Lato", system-ui;
         font-weight: 700;
         font-style: normal;
